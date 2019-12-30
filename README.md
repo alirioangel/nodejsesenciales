@@ -23,7 +23,12 @@ Con esto hecho, su lección estará lista para ser desarrollada junto al program
 ## Autor
 
 * **Platzi**
+* **Participante:** Alirio Angel
 
 ## Licencia
 
 * **Licencia MIT**
+
+## Descripcion
+
+curso realizado para mejorar en los fundamenos de NodeJS con platzi.
